@@ -1,0 +1,2 @@
+# curly-spork
+ai-foundry/ │ ├── backend/ │   ├── src/ │   │   ├── server.ts                # Express server + WebSocket setup │   │   ├── routes/ │   │   │   ├── chat.ts              # Handle user → persona messages │   │   │   ├── personas.ts          # CRUD for persona configs │   │   │   ├── memory.ts            # Vector memory + semantic search │   │   │   ├
